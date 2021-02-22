@@ -1,0 +1,3 @@
+If user does not exist First adduser <username>
+with graphic session you input your login when asked and then your password.
+ssh session you use the ssh <login>@<ip> then input your password when asked

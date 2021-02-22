@@ -1,0 +1,6 @@
+traceroute slash16.org will give you results, and second on the list is nat.
+answer:  nat (10.60.1.1)
+
+Network Address Translation (NAT) is designed for IP address conservation. It enables private IP networks that use unregistered IP addresses to connect to the Internet. NAT operates on a router, usually connecting two networks together, and translates the private (not globally unique) addresses in the internal network into legal addresses, before packets are forwarded to another network 
+
+//source: https://www.cisco.com/c/en/us/support/docs/ip/network-address-translation-nat/26704-nat-faq-00.html

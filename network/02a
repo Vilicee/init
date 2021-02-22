@@ -1,0 +1,1 @@
+ifconfig | grep en0 -A 1 | grep broadcast | awk '/inet/{print$6}'

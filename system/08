@@ -1,0 +1,2 @@
+I found the information from /etc/ssh/sshd_config.
+The keys are located by default in a file called authorized_keys. Path .ssh/authorized_keys
